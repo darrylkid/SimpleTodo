@@ -22,8 +22,14 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough:
 
-<img src='https://github.com/darrylkid/SimpleTodo/blob/master/SimpleTodoDemonstration.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /><img src='https://github.com/darrylkid/SimpleTodo/blob/master/SimpleTodoDemonstrationPersistence.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<p align="center">
+  <img src='https://github.com/darrylkid/SimpleTodo/blob/master/SimpleTodoDemonstration.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+</p>
 
+
+<p align="center">
+  <img src='https://github.com/darrylkid/SimpleTodo/blob/master/SimpleTodoDemonstrationPersistence.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+</p>
 
 ## Notes
 
