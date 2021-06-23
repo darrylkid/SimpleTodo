@@ -18,13 +18,9 @@ The following **bonus** features are implemented:
 
 * [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected back in the todo list
 
-The following **additional** features are implemented:
+## GIF Walkthrough
 
-* [ ] List anything else that you can get done to improve the app functionality!
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough:
 
 <img src='https://github.com/darrylkid/SimpleTodo/blob/master/SimpleTodoDemonstration.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://github.com/darrylkid/SimpleTodo/blob/master/SimpleTodoDemonstration.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
